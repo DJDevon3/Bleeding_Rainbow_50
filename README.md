@@ -1,5 +1,5 @@
 # Bleeding Rainbow 50
-WS2812C-2020 SMD 2mm RGB LED stick
+WS2812C-2020 SMD 2mm RGB LED stick (requires 5V power will not work with 3.3V power)
 
 Schematic, Board, and BOM files available here: [Bleeding Rainbow 50 on OSHWlab.com](https://oshwlab.com/djdevon3/bleeding_rainbow_50)
 
